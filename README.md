@@ -1,4 +1,4 @@
-
+![logo](https://github.com/JAYANT786/JAYANT786/blob/main/image0(1)(2).jpeg)
 <h1 align="center">Hi 👋, I'm Jayant Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
