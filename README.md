@@ -1,6 +1,3 @@
-https://github.com/JAYANT786/JAYANT786/assets/79712667/4e2153f7-3263-4cb5-b3b7-25a4d88a4e56
-
-
 <h1 align="center">Hi 👋, I'm Jayant Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
